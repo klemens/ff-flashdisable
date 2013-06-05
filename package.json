@@ -1,1 +1,34 @@
-{"license": "", "preferences": [{"title": "Name of the Flash Plugin", "type": "string", "description": "Default: 'Shockwave Flash'", "value": "Shockwave Flash", "name": "flashName"}, {"type": "bool", "name": "autoreload", "value": false, "title": "Reload current tab on Flash activation"}, {"type": "bool", "name": "disableOnStartup", "value": false, "title": "Disable Flash on Firefox startup"}, {"title": "(Force) move button to navigation toolbar", "type": "control", "description": "Use this if the button keeps disappearing", "name": "moveButton", "label": "Move"}], "contributors": [], "author": "klemens", "url": "", "name": "flashdisable", "dependencies": ["vold-utils", "api-utils", "addon-kit"], "version": "0.9.3", "lib": "lib", "fullName": "FlashDisable", "main": "main", "id": "jid0-bbA9VAawX3LMWDu668aUDrpQVXU", "description": "This addon adds a toolbar button that lets you disable and re-enable flash with just one click."}
+{
+    "name": "flashdisable",
+    "fullName": "FlashDisable",
+    "id": "jid0-bbA9VAawX3LMWDu668aUDrpQVXU",
+    "description": "This addon adds a toolbar button that lets you disable and re-enable flash with just one click.",
+    "author": "klemens",
+    "license": "GPLv3",
+    "contributors": [],
+    "dependencies": [ "vold-utils" ],
+    "version": "0.9.3",
+    "preferences": [{
+        "name": "flashName",
+        "title": "Name of the Flash Plugin",
+        "description": "Default: 'Shockwave Flash'",
+        "type": "string",
+        "value": "Shockwave Flash"
+    }, {
+        "name": "autoreload",
+        "title": "Reload current tab on Flash activation",
+        "type": "bool",
+        "value": false
+    }, {
+        "name": "disableOnStartup",
+        "title": "Disable Flash on Firefox startup",
+        "type": "bool",
+        "value": false
+    }, {
+        "name": "moveButton",
+        "title": "(Force) move button to navigation toolbar",
+        "description": "Use this if the button keeps disappearing",
+        "type": "control",
+        "label": "Move"
+    }]
+}
