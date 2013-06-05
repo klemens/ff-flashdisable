@@ -1,0 +1,1 @@
+{"license": "", "description": "", "contributors": [], "author": "erikvold", "url": "", "dependencies": ["api-utils", "api-utils"], "version": "v1.3", "lib": "lib", "fullName": "Vold Utils", "main": "lib/index", "id": 6840, "name": "vold-utils"}
