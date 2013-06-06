@@ -5,6 +5,8 @@
     "description": "This addon adds a toolbar button that lets you disable and re-enable flash with just one click.",
     "author": "klemens",
     "license": "GPLv3",
+    "icon": "logo/logo32.png",
+    "icon64": "logo/logo64.png",
     "permissions": { "private-browsing": true },
     "dependencies": [ "vold-utils" ],
     "version": "0.9.3",
