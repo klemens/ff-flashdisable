@@ -9,7 +9,7 @@
     "icon64": "logo/logo64.png",
     "permissions": { "private-browsing": true },
     "dependencies": [ "vold-utils" ],
-    "version": "0.9.4beta2",
+    "version": "0.9.4",
     "preferences": [{
         "name": "flashName",
         "title": "Name of the Flash Plugin",
