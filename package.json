@@ -20,11 +20,5 @@
         "title": "Disable Flash on Firefox startup",
         "type": "bool",
         "value": false
-    }, {
-        "name": "moveButton",
-        "title": "(Force) move button to navigation toolbar",
-        "description": "Use this if the button keeps disappearing",
-        "type": "control",
-        "label": "Move"
     }]
 }
