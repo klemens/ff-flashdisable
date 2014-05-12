@@ -11,12 +11,6 @@
     "dependencies": [ "vold-utils" ],
     "version": "0.9.4",
     "preferences": [{
-        "name": "flashName",
-        "title": "Name of the Flash Plugin",
-        "description": "Default: 'Shockwave Flash'",
-        "type": "string",
-        "value": "Shockwave Flash"
-    }, {
         "name": "autoreload",
         "title": "Reload current tab on Flash activation",
         "type": "bool",
