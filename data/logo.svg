@@ -33,39 +33,6 @@
          style="stop-color:#2e2e2e;stop-opacity:1"
          offset="1" />
     </linearGradient>
-    <filter
-       x="-0.25"
-       y="-0.25"
-       width="1.5"
-       height="1.5"
-       color-interpolation-filters="sRGB"
-       id="filter3897">
-      <feGaussianBlur
-         result="blur"
-         stdDeviation="5"
-         in="SourceAlpha"
-         id="feGaussianBlur3899" />
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.5 0 "
-         type="matrix"
-         result="bluralpha"
-         id="feColorMatrix3901" />
-      <feOffset
-         result="offsetBlur"
-         dy="7"
-         dx="7"
-         in="bluralpha"
-         id="feOffset3903" />
-      <feMerge
-         id="feMerge3905">
-        <feMergeNode
-           in="offsetBlur"
-           id="feMergeNode3907" />
-        <feMergeNode
-           in="SourceGraphic"
-           id="feMergeNode3909" />
-      </feMerge>
-    </filter>
     <linearGradient
        x1="606.82129"
        y1="103.47048"
