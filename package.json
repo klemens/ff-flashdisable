@@ -9,7 +9,7 @@
     "icon64": "logo/logo64.png",
     "permissions": { "private-browsing": true },
     "dependencies": [ "vold-utils" ],
-    "version": "0.9.4",
+    "version": "1.0.0beta1",
     "preferences": [{
         "name": "autoreload",
         "title": "Reload current tab on Flash activation",
