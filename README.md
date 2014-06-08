@@ -14,6 +14,6 @@ settings:
 ## Licence ##
 
 This addon by Klemens Schölhorn is licenced under GPLv3.<br />
-The included [toolbarbutton lib][vold] by Erik Vold and modified by Klemens Schölhorn is licenced under MIT. 
+The included [menuitem module][menuitem] by Erik Vold is licenced under MPL 2.0.
 
-[vold]: https://github.com/voldsoftware/toolbarbutton-jplib
+[menuitem]: https://github.com/klemens/ff-sdk-menuitems
