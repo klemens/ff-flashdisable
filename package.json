@@ -8,7 +8,7 @@
     "icon": "logo/logo32.png",
     "icon64": "logo/logo64.png",
     "permissions": { "private-browsing": true },
-    "dependencies": [ "vold-utils" ],
+    "dependencies": [ "vold-utils", "menuitems"],
     "version": "1.0.0beta1",
     "preferences": [{
         "name": "autoreload",
