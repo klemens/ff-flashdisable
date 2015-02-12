@@ -20,5 +20,10 @@
         "title": "Disable Flash on Firefox startup",
         "type": "bool",
         "value": false
+    }, {
+        "name": "useClickToPlay",
+        "title": "Use 'Ask to Activate' (Click to Play) instead of 'Always Activate' when enabling Flash",
+        "type": "bool",
+        "value": false
     }]
 }
