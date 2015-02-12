@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -26,6 +24,7 @@
          offset="1" />
     </linearGradient>
     <linearGradient
+       gradientTransform="translate(-32.714283,-104.60532)"
        x1="310.92856"
        y1="65.319595"
        x2="304.5"
@@ -46,19 +45,15 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     transform="translate(-32.714283,-104.60532)"
-     id="layer1">
-    <rect
-       width="572.85712"
-       height="572.85712"
-       x="32.714283"
-       y="104.60532"
-       id="rect3755"
-       style="fill:url(#linearGradient3765);fill-opacity:1;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none" />
-    <path
-       d="m 123.37177,577.34502 0,95.30265 c 123.987,1.27458 185.738,-113.40491 241.66354,-227.70907 l 127.34357,0 -1.16411,-90.97907 c 0,0 -10.24072,0.74411 -93.05641,0 36.63471,-67.09999 57.82916,-155.57053 116.94756,-157.96574 l -0.0663,-87.19748 c -110.87225,0.87364 -167.93776,134.24424 -222.80003,245.16322 -107.82042,-0.0655 -102.80118,0 -102.80118,0 l 0,90.97907 c 0,0 -3.79396,0.0888 62.05588,0 -41.66988,80.37363 -79.03754,131.25929 -128.12249,132.40641 z"
-       id="path2985"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-  </g>
+  <rect
+     style="fill:url(#linearGradient3765);fill-opacity:1;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect3755"
+     y="3.7915038e-006"
+     x="-1.0498049e-008"
+     height="572.85712"
+     width="572.85712" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path2985"
+     d="m 107.29353,458.28123 0,78.63571 c 113.99938,1.13192 161.42214,-113.5683 221.33842,-213.86505 l 101.93635,0 -0.21214,-72.18922 c 0,0 2.87522,0.66083 -73.26935,0 20.94,-46.23921 55.1708,-135.55114 109.52699,-137.67827 l -0.061,-77.437722 C 364.61177,36.522534 314.14311,152.35852 263.7002,250.86267 c -99.13507,-0.0582 -84.52015,0 -84.52015,0 l 0,71.4029 c 0,0 -3.48834,0.0789 57.05704,0 -38.31321,71.37765 -83.81256,134.99693 -128.94353,136.01565 z" />
 </svg>
