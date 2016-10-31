@@ -1,0 +1,6 @@
+.git
+.gitignore
+.jpmignore
+README.md
+releases
+*.xpi
