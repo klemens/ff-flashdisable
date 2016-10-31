@@ -2,5 +2,9 @@
 .gitignore
 .jpmignore
 README.md
-releases
-*.xpi
+/releases
+test
+/*.xpi
+
+/node_modules/pathfinder/
+!/node_modules/pathfinder/lib/addon/unload.js
