@@ -7,6 +7,7 @@
     "main" : "lib/main.js",
     "permissions": {
         "private-browsing": true,
+        "multiprocess": true
     },
     "dependencies": {
         "menuitem": "git+https://github.com/OverByThere/menuitem.git#d28f3656ca8b7f8df7aa83c43e3e78d9a4fd7e99"
