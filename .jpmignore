@@ -1,12 +1,10 @@
-.git
-.gitignore
-.jpmignore
-.npmignore
-.travis.yml
-README.md
+/.git
+/.gitignore
+/.jpmignore
+/README.md
 /releases
-test
 /*.xpi
 
-/node_modules/pathfinder/
+/node_modules/
 !/node_modules/pathfinder/lib/addon/unload.js
+!/node_modules/menuitem/index.js
